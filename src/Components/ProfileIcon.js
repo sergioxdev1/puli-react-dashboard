@@ -30,7 +30,7 @@ export default function ProfileIcon(props) {
                 <Hidden smDown>
                   <span style={{ paddingRight: '20px' }}>{props.name}</span>
                 </Hidden>
-                <Avatar alt="Puli ChinnaObulaReddy" src="../static/profile_avatar.jpg" />
+                <Avatar alt="Sergio X. Dev" src="../static/profile_avatar.jpg" />
               </ListItem>
             </IconButton>
             <Popover
