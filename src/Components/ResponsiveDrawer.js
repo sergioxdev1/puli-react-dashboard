@@ -94,7 +94,7 @@ function ResponsiveDrawer(props) {
         <ListItem className={classes.listItem}>
           <SentimentVerySatisfiedIcon style={{ fontSize: 40 }} />
           <Typography variant="h6" style={{ paddingLeft: '10px' }}>
-            SB Admin
+            Admin
           </Typography>
         </ListItem>
       </List>
@@ -170,7 +170,7 @@ function ResponsiveDrawer(props) {
               <Divider orientation="vertical" />
             </Grid>
             <Grid item>
-              <ProfileIcon name="Puli ChinnaObulaReddy" />
+              <ProfileIcon name="Sergio X. Dev" />
             </Grid>
           </Grid>
         </Toolbar>
